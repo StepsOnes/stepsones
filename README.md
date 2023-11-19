@@ -10,14 +10,14 @@ Currently, I am focusing on mastering frontend development using modern tools an
 
 ### 📫 How to Reach Me
 You can reach out to me through the following channels:
-- Email
-- LinkedIn
-- Portfolio
+- Email (http://mailto:your-email@example.com/)
+- LinkedIn (https://www.linkedin.com/in/your-username)
+- Portfolio (https://your-portfolio-website.com/)
 
 ### 💬 Ask Me About
 If you have any questions or need assistance with anything related to web development, feel free to ask me. I am always happy to help fellow developers.
 
-### ⚡ Fun Fact
+### ⚡️ Fun Fact
 Apart from coding, I enjoy playing musical instruments and hiking in my free time. I believe these activities help me relax and find inspiration for my coding projects.
 
 ### 🚀 Skills
@@ -29,23 +29,21 @@ Apart from coding, I enjoy playing musical instruments and hiking in my free tim
 
 ### 📝 Projects
 Here are some of my notable projects:
-- Project 1: Description of project
-- Project 2: Description of project
-- Project 3: Description of project
+- [Project 1\](https://project1-url.com): Description of project
+- [Project 2\](https://project2-url.com): Description of project
+- [Project 3\](https://project3-url.com): Description of project
 
 Feel free to explore my repositories to find more projects that I've worked on.
 
 ### 🌐 Languages and Tools
-!HTML
-!CSS
-!JavaScript
-!React
-!Node.js
-!Express.js
-!MongoDB
-!MySQL
+!HTML (https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat)
+!CSS (https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=flat)
+!JavaScript (https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat)
+!React (https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=black&style=flat)
+!Node.js (https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=flat)
+!Express.js (https://img.shields.io/badge/-Express.js-000000?logo=Express&logoColor=white&style=flat)
+!MongoDB (https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white&style=flat)
+!MySQL (https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white&style=flat)
 
-### ⭐ GitHub Stats
-!GitHub Stats
-
-Thank you for visiting my profile! Let's connect and collaborate on exciting projects together.
+### ⭐️ GitHub Stats
+!GitHub Stats (https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
