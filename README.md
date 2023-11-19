@@ -46,4 +46,4 @@ MongoDB![MongoDb](https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logo
 MySQL![sql](https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white&style=flat)
 
 ### ⭐️ GitHub Stats
-GitHub Stats![](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=StepsOnes&show_icons=true&theme=radical)
