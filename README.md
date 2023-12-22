@@ -2,17 +2,11 @@
 
 Welcome to my GitHub profile! I'm passionate about building web applications and have experience working with both frontend and backend technologies.
 
-### 🔭 What I'm Currently Working On
-I am currently working on enhancing my skills in JavaScript frameworks like React.js and Node.js. I am also experimenting with different database technologies to expand my backend knowledge.
-
-### 🌱 What I'm Currently Learning
-Currently, I am focusing on mastering frontend development using modern tools and frameworks, such as React.js and Redux. I am also learning about server-side programming using Node.js and Express.js.
-
 ### 📫 How to Reach Me
 You can reach out to me through the following channels:
-- Email (http://mailto:your-email@example.com/)
-- LinkedIn (https://www.linkedin.com/in/your-username)
-- Portfolio (https://your-portfolio-website.com/)
+- [Email](http://mailto:stepsones@icloud.com/)
+- [Telegram](https://t.me/holifish)
+- [Portfolio](https://stepsones.me)
 
 ### 💬 Ask Me About
 If you have any questions or need assistance with anything related to web development, feel free to ask me. I am always happy to help fellow developers.
@@ -21,36 +15,97 @@ If you have any questions or need assistance with anything related to web develo
 Apart from coding, I enjoy playing musical instruments and hiking in my free time. I believe these activities help me relax and find inspiration for my coding projects.
 
 ### 🚀 Skills
-- Frontend: HTML, CSS, JavaScript, React.js, Redux
-- Backend: Node.js, Express.js, MongoDB, MySQL
-- Testing: Jest, Enzyme
-- Version Control: Git, GitHub
-- Deployment: Heroku, Netlify, AWS
+---
+<details align="center">
+   <summary>
+   Default - web3
+	</summary>
+	<br />
+	<p>
+		<img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+		<img src="https://skillicons.dev/icons?i=css&theme=dark"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+		<img src="https://skillicons.dev/icons?i=sass&theme=dark" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
+		<img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+		<img src="https://skillicons.dev/icons?i=ts&theme=dark" title="TypeSript" alt="TypeSript" width="40" height="40"/>&nbsp;
+		<img src="https://skillicons.dev/icons?i=svg&theme=dark" title="svg" alt="svg" width="40" height="40"/>&nbsp;
+	</p>
+</details>
 
-### 📝 Projects
-Here are some of my notable projects:
-- [Project 1\](https://project1-url.com): Description of project
-- [Project 2\](https://project2-url.com): Description of project
-- [Project 3\](https://project3-url.com): Description of project
+<details align="center">
+   <summary>
+	Front-end
+	</summary>
+	<br />
+	<p>
+		<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" title="NextJs" alt="Java" width="40" height="40"/>&nbsp;
+		<img src="https://skillicons.dev/icons?i=react&theme=dark" title="React" alt="React" width="40" height="40"/>&nbsp;
+		<img src="https://skillicons.dev/icons?i=redux&theme=dark" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+	</p>
+</details>
 
-Feel free to explore my repositories to find more projects that I've worked on.
+<details align="center">
+   <summary>
+	Back-end
+	</summary>
+	<br />
+	<p>
+		<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="NodeJs" alt="NodeJs" width="40" height="40"/>&nbsp;
+		<img src="https://skillicons.dev/icons?i=express&theme=dark" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+		<img src="https://skillicons.dev/icons?i=nestjs&theme=dark" title="NestJs" alt="NestJs" width="40" height="40"/>&nbsp;
+		<img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+		<img src="https://skillicons.dev/icons?i=postgresql&theme=dark" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
+		<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDb"  alt="MongoDb" width="40" height="40"/>&nbsp;
+		<img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+		<img src="https://skillicons.dev/icons?i=graphql&theme=dark" title="GraphQl" alt="GraphQl" width="40" height="40"/>&nbsp;
+		<img src="https://skillicons.dev/icons?i=jest&theme=dark" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
+		<img src="https://skillicons.dev/icons?i=prisma&theme=dark" title="Prisma" alt="Prisma" width="40" height="40"/>&nbsp;
+    </p>
+</details>
 
-### 🌐 Languages and Tools
-HTML![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat)
+<details align="center">
+   <summary>
+	Libs
+	</summary>
+	<br />
+	<p>
+		<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
+		<img src="https://skillicons.dev/icons?i=materialui&theme=dark" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+		<img src="https://skillicons.dev/icons?i=threejs&theme=dark" title="ThreeJs" alt="ThreeJs" width="40" height="40"/>&nbsp;
+		<img src="https://skillicons.dev/icons?i=styledcomponents&theme=dark" title="StyledComponents" alt="StyledComponents" width="40" height="40"/>&nbsp;
+		<img src="https://skillicons.dev/icons?i=emotion&theme=dark" title="Emotion" alt="Emotion" width="40" height="40"/>&nbsp;
+		<img src="https://skillicons.dev/icons?i=jquery&theme=dark" title="Jquery" alt="Jquery" width="40" height="40"/>&nbsp;
+		<img src="https://skillicons.dev/icons?i=solidjs&theme=dark" title="Solidjs" alt="Solidjs" width="40" height="40"/>&nbsp;
+	</p>
+</details>
 
-CSS![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=flat)
+<details align="center">
+   <summary>
+	Ide - editor
+	</summary>
+	<br />
+	<p>
+		<img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="Vsc" alt="Vsc" width="40" height="40"/>&nbsp;
+		<img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" title="VisualStudio" alt="VisualStudio" width="40" height="40"/>&nbsp;
+    	<img src="https://skillicons.dev/icons?i=idea&theme=dark" title="Ide" alt="Ide" width="40" height="40"/>&nbsp;
+    </p>
+</details>
 
-JavaScript![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat)
+<details align="center">
+   <summary>
+	Etc Helpers
+	</summary>
+	<br />
+	<p>
+		<img src="https://skillicons.dev/icons?i=blender&theme=dark" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
+    		<img src="https://skillicons.dev/icons?i=postman&theme=dark" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
+    		<img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+    		<img src="https://skillicons.dev/icons?i=powershell&theme=dark" title="PowerShell" alt="PowerShell" width="40" height="40"/>&nbsp;
+    		<img src="https://skillicons.dev/icons?i=gcp&theme=dark" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
+    		<img src="https://skillicons.dev/icons?i=figma&theme=dark" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+    		<img src="https://skillicons.dev/icons?i=md&theme=dark" title="MD" alt="MD" width="40" height="40"/>&nbsp;
+    		<img src="https://skillicons.dev/icons?i=vite&theme=dark" title="vite" alt="Vite" width="40" height="40"/>&nbsp;
+    		<img src="https://skillicons.dev/icons?i=webpack&theme=dark" title="WebPack" alt="WebPack" width="40" height="40"/>&nbsp;
+    </p>
+</details>
 
-React![React](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=black&style=flat)
-
-Node.js![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=flat)
-
-Express.js![Express](https://img.shields.io/badge/-Express.js-000000?logo=Express&logoColor=white&style=flat)
-
-MongoDB![MongoDb](https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white&style=flat)
-
-MySQL![sql](https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white&style=flat)
-
-### ⭐️ GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=StepsOnes&show_icons=true&theme=radical)
+---
