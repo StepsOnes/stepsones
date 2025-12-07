@@ -11,9 +11,6 @@ You can reach out to me through the following channels:
 ### 💬 Ask Me About
 If you have any questions or need assistance with anything related to web development, feel free to ask me. I am always happy to help fellow developers.
 
-### ⚡️ Fun Fact
-Apart from coding, I enjoy playing musical instruments and hiking in my free time. I believe these activities help me relax and find inspiration for my coding projects.
-
 ### 🚀 Skills
 ---
 <details align="center">
